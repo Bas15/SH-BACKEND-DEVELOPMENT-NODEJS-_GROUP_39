@@ -1,0 +1,129 @@
+{
+  "hostname": "DESKTOP-D240R50",
+  "platform": "win32",
+  "architecture": "x64",
+  "numberOfCPUS": [
+    {
+      "model": "Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz",
+      "speed": 2295,
+      "times": {
+        "user": 27275515,
+        "nice": 0,
+        "sys": 21686375,
+        "idle": 69786000,
+        "irq": 1335359
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz",
+      "speed": 2295,
+      "times": {
+        "user": 29032312,
+        "nice": 0,
+        "sys": 19605218,
+        "idle": 70110062,
+        "irq": 323656
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz",
+      "speed": 2295,
+      "times": {
+        "user": 30688171,
+        "nice": 0,
+        "sys": 21403203,
+        "idle": 66656218,
+        "irq": 183953
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz",
+      "speed": 2295,
+      "times": {
+        "user": 31276203,
+        "nice": 0,
+        "sys": 20867453,
+        "idle": 66603937,
+        "irq": 143515
+      }
+    }
+  ],
+  "networkInterfaces": {
+    "VirtualBox Host-Only Network": [
+      {
+        "address": "fe80::d85d:2cb6:e9d4:a771",
+        "netmask": "ffff:ffff:ffff:ffff::",
+        "family": "IPv6",
+        "mac": "0a:00:27:00:00:10",
+        "internal": false,
+        "cidr": "fe80::d85d:2cb6:e9d4:a771/64",
+        "scopeid": 16
+      },
+      {
+        "address": "192.168.56.1",
+        "netmask": "255.255.255.0",
+        "family": "IPv4",
+        "mac": "0a:00:27:00:00:10",
+        "internal": false,
+        "cidr": "192.168.56.1/24"
+      }
+    ],
+    "Wi-Fi": [
+      {
+        "address": "fde1:585:68b7:0:195a:cab0:6a10:ecda",
+        "netmask": "ffff:ffff:ffff:ffff::",
+        "family": "IPv6",
+        "mac": "54:35:30:81:30:83",
+        "internal": false,
+        "cidr": "fde1:585:68b7:0:195a:cab0:6a10:ecda/64",
+        "scopeid": 0
+      },
+      {
+        "address": "fde1:585:68b7:0:ddd6:5649:11be:7022",
+        "netmask": "ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff",
+        "family": "IPv6",
+        "mac": "54:35:30:81:30:83",
+        "internal": false,
+        "cidr": "fde1:585:68b7:0:ddd6:5649:11be:7022/128",
+        "scopeid": 0
+      },
+      {
+        "address": "fe80::195a:cab0:6a10:ecda",
+        "netmask": "ffff:ffff:ffff:ffff::",
+        "family": "IPv6",
+        "mac": "54:35:30:81:30:83",
+        "internal": false,
+        "cidr": "fe80::195a:cab0:6a10:ecda/64",
+        "scopeid": 21
+      },
+      {
+        "address": "192.168.37.106",
+        "netmask": "255.255.255.0",
+        "family": "IPv4",
+        "mac": "54:35:30:81:30:83",
+        "internal": false,
+        "cidr": "192.168.37.106/24"
+      }
+    ],
+    "Loopback Pseudo-Interface 1": [
+      {
+        "address": "::1",
+        "netmask": "ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff",
+        "family": "IPv6",
+        "mac": "00:00:00:00:00:00",
+        "internal": true,
+        "cidr": "::1/128",
+        "scopeid": 0
+      },
+      {
+        "address": "127.0.0.1",
+        "netmask": "255.0.0.0",
+        "family": "IPv4",
+        "mac": "00:00:00:00:00:00",
+        "internal": true,
+        "cidr": "127.0.0.1/8"
+      }
+    ]
+  },
+  "uptime": 377628
+}
